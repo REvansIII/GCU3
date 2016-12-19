@@ -1,0 +1,6 @@
+C:\Users\Robbie\Desktop\CST116\Topic5_HMwork\Chap5Ex20\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Robbie\Desktop\CST116\Topic5_HMwork\Chap5Ex20\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Robbie\Desktop\CST116\Topic5_HMwork\Chap5Ex20\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Robbie\Desktop\CST116\Topic5_HMwork\Chap5Ex20\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Robbie\Desktop\CST116\Topic5_HMwork\Chap5Ex20\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Robbie\Desktop\CST116\Topic5_HMwork\Chap5Ex20\ConsoleApplication5\obj\Debug\Chap5Ex20.csprojResolveAssemblyReference.cache

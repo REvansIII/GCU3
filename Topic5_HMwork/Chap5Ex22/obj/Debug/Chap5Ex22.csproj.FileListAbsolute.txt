@@ -1,0 +1,6 @@
+c:\users\robbie\documents\visual studio 2015\Projects\Chap5Ex22\Chap5Ex22\bin\Debug\Chap5Ex22.exe.config
+c:\users\robbie\documents\visual studio 2015\Projects\Chap5Ex22\Chap5Ex22\bin\Debug\Chap5Ex22.exe
+c:\users\robbie\documents\visual studio 2015\Projects\Chap5Ex22\Chap5Ex22\bin\Debug\Chap5Ex22.pdb
+c:\users\robbie\documents\visual studio 2015\Projects\Chap5Ex22\Chap5Ex22\obj\Debug\Chap5Ex22.csprojResolveAssemblyReference.cache
+c:\users\robbie\documents\visual studio 2015\Projects\Chap5Ex22\Chap5Ex22\obj\Debug\Chap5Ex22.exe
+c:\users\robbie\documents\visual studio 2015\Projects\Chap5Ex22\Chap5Ex22\obj\Debug\Chap5Ex22.pdb
